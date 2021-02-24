@@ -1,0 +1,21 @@
+
+/*---Slide with image---*/
+.reveal section img {
+  margin: 15px 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: none;
+  box-shadow: none; 
+}
+
+/*---Slide Numbers---*/
+.reveal .slide-number {
+  font-size: 18pt;
+  color: #ffffff; 
+}
+
+/*---Progress bar---*/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: #7e588aff;
+  height: 2%;
+}
