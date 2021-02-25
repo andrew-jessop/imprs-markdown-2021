@@ -30,9 +30,9 @@ editor_options:
 
 - How can markdown help with this?
 
-- Analysis notebooks in RMarkdown
+- Analysis notebooks in R Markdown
 
-- APA reports using RMarkdown
+- APA reports using R Markdown
 
 ## [What is Open Science?](https://osaos.codeforscience.org/what-is-open/)
 
@@ -83,7 +83,7 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 - Large open science repositories and projects make it possible to address difficult questions ([CHILDES](https://childes.talkbank.org/), [Wordbank](http://wordbank.stanford.edu/), [ManyBabies](https://manybabies.github.io/), [MetaLab](http://metalab.stanford.edu/))
 
 
-## What are the disvantages?
+## What are the disadvantages?
 - <span style="color:#C00000;"><strong>MOSTLY ISSUES IN PRACTICE NOT PRINCIPLE</strong></span> 
 
 - Possible misuse of highly sensitive data
@@ -96,7 +96,7 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 
 <img src="bates.png">
 
-## What are the disvantages?
+## What are the disadvantages?
 
 - <span style="color:#C00000;"><strong>MOSTLY ISSUES IN PRACTICE NOT PRINCIPLE</strong></span> 
 
@@ -231,7 +231,7 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 
 - Here are some links to take a look at if you're interested!
 
-- R ([R Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects), [RMarkdown](https://bookdown.org/yihui/rmarkdown/), [Jupyter](https://www.datacamp.com/community/blog/jupyter-notebook-r), [renv](https://rstudio.github.io/renv/))
+- R ([R Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects), [R Markdown](https://bookdown.org/yihui/R Markdown/), [Jupyter](https://www.datacamp.com/community/blog/jupyter-notebook-r), [renv](https://rstudio.github.io/renv/))
 
 - Python ([Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/),  [Conda Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), [Jupyter/IPython](https://www.dataquest.io/blog/jupyter-notebook-tutorial/), [PWeave](http://mpastell.com/pweave/))
 
@@ -259,7 +259,7 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 
 <img src="markdown-code.png" width="800">
 
-## [R Markdown](https://rmarkdown.rstudio.com/) 
+## [R Markdown](https://R Markdown.rstudio.com/) 
 
 - A version of Markdown made by RStudio
 
@@ -273,9 +273,9 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 
 - Templates on GitHub...
 
-- [PDF in R markdown](https://github.com/andrew-jessop/apa-pdf-in-rmarkdown)
+- [PDF in R markdown](https://github.com/andrew-jessop/apa-pdf-in-R Markdown)
 
-- [DOCX in R markdown](https://github.com/andrew-jessop/apa-word-docx-in-rmarkdown)
+- [DOCX in R markdown](https://github.com/andrew-jessop/apa-word-docx-in-R Markdown)
 
 ## Where to find examples?
 
@@ -287,16 +287,20 @@ You can get a [badge](https://www.psychologicalscience.org/publications/badges) 
 
 ## There is an online book
 
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/R Markdown/)
 
 - Open source (CC-BY 4.0)
 
 - Written by the R Markdown development team
 
-## Main parts of an R Markdown document
+## Main parts of R Markdown
 
 - YAML header -- Specifies how the document should look
 
 - Titles and text -- written content
 
 - Code -- can be hidden (e.g., for report) or shown (e.g., for a notebook)
+
+## Time for an example
+
+<img src="example-report.png" width="800">
